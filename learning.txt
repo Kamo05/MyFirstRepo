@@ -1,2 +1,2 @@
-What I learnt so far in this course is how collaborate
-via Forking and to Pull request
+What I have learnt from this course
+Is how to collaborate via Fork and how to pull request
