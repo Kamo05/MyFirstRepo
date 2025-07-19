@@ -1,2 +1,2 @@
-What I have learnt from this course
+What I have learned from this course
 Is how to collaborate via Fork and how to pull request
